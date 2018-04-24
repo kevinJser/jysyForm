@@ -14,13 +14,6 @@
         "default_title": "表单填充",
         "default_popup": "popup.html"
     },
-    "background": {
-        "scripts": [
-            "js/jquery-1.11.3.js",
-            "js/background.js"
-        ],
-        "persistent": true
-    },
     "content_scripts": [
         {
             "matches": [
